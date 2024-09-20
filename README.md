@@ -3,11 +3,12 @@
 This is the Pytorch implementation of the ICRA 2024 paper [FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events](https://arxiv.org/abs/2403.11662). 
 
 ```bibtex
-@article{wang2024fe,
-  title={FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events},
-  author={Wang, Xiangyuan and Chen, Kuangyi and Yang, Wen and Yu, Lei and Xing, Yannan and Yu, Huai},
-  journal={arXiv preprint arXiv:2403.11662},
-  year={2024}
+@inproceedings{wang2024fedetr,
+    title={{FE-DeTr}: Keypoint Detection and Tracking in Low-quality Image Frames with Events}, 
+    author={Xiangyuan Wang and Kuangyi Chen and Wen Yang and Lei Yu and Yannan Xing and Huai Yu},
+    booktitle={IEEE International Conference on Robotics and Automation},
+    year={2024},
+    pages={14638--14644}
 }
 ```
 
