@@ -20,11 +20,12 @@ Extreme Corners Dataset and Better detectors and trackers that support high temp
 # Introduction
 FE-DeTr includes a novel keypoint detection network that fuses the textural and structural information from image frames with the high-temporal-resolution motion information from event streams. The network leverages a temporal response consistency for supervision, ensuring stable and efficient keypoint detection. Moreover, we use a spatio-temporal nearest-neighbor search strategy for robust keypoint tracking. 
 
-<video width="1280" height="720" controls>
-  <source src="https://github.com/yuyangpoi/FE-DeTr/blob/main/figures/FE-DeTr_20230922_21330589.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <img src="figures/brief.png" width="90%">
+</p>
 
-![s](figures/brief.png)
 
 # Network Architecture
-![s](figures/structure.png)
+<p align="center">
+  <img src="figures/structure.png" width="90%">
+</p>
