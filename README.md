@@ -2,6 +2,17 @@
 
 *Authors:* Xiangyuanw Wang, Kuangyi Chen, [Wen Yang](http://www.captain-whu.com/yangwen_En.html), [Lei Yu](https://scholar.google.com/citations?hl=zh-CN&user=Klc_GHUAAAAJ), Yannan Xing, [Huai Yu](https://scholar.google.com/citations?user=lG7h27kAAAAJ&hl=zh-CN)
 
+This is the Pytorch implementation of the ICRA 2024 paper [FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events](https://arxiv.org/abs/2403.11662). 
+
+```bibtex
+@article{wang2024fe,
+  title={FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events},
+  author={Wang, Xiangyuan and Chen, Kuangyi and Yang, Wen and Yu, Lei and Xing, Yannan and Yu, Huai},
+  journal={arXiv preprint arXiv:2403.11662},
+  year={2024}
+}
+```
+
 
 # Update
 Extreme Corners Dataset and Better detectors and trackers that support high temporal resolution! 
