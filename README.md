@@ -16,7 +16,7 @@ This is the Pytorch implementation of the ICRA 2024 paper [FE-DeTr: Keypoint Det
 # Update
 ⭐ **[Extreme Corners Dataset](https://github.com/yuyangpoi/FF-KDT)** 
 
-⭐ A better method that includes a keypoint detector and an anypoint tracker, both supporting the high temporal resolution.: [Towards Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features](https://github.com/yuyangpoi/FF-KDT). 
+⭐ A better method that includes a **keypoint detector** and an **anypoint tracker**, both supporting the high temporal resolution: [Towards Robust Keypoint Detection and Tracking: A Fusion Approach with Event-Aligned Image Features](https://github.com/yuyangpoi/FF-KDT). 
 
 
 # Introduction
