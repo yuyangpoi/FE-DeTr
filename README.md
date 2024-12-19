@@ -1,6 +1,6 @@
 # FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events
 
-This is the Pytorch implementation of the ICRA 2024 paper [FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events](https://arxiv.org/abs/2403.11662). 
+This is the Pytorch implementation of the ICRA 2024 paper [FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events](https://ieeexplore.ieee.org/document/10610579). 
 
 ```bibtex
 @inproceedings{wang2024fedetr,
